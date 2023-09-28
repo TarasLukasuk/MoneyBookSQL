@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBookSQL", "MoneyBookSQL\MoneyBookSQL.csproj", "{D1C4C085-F6B5-4ED3-9160-5577CF98716C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C4C085-F6B5-4ED3-9160-5577CF98716C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C4C085-F6B5-4ED3-9160-5577CF98716C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C4C085-F6B5-4ED3-9160-5577CF98716C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C4C085-F6B5-4ED3-9160-5577CF98716C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5843770-AC69-429D-8F63-BF0C303BA049}
+	EndGlobalSection
+EndGlobal
